@@ -39,7 +39,7 @@ Add styles or override the theme's variables here.
   margin: 0 0 1.5em 1.5em; }
 
 #overview {
-  border-bottom: 2px solid #b6d0ff;
+  border-bottom: 2px solid #4148ac;
   padding: 6em 1.5em 3em 1.5em;
   text-align: center;
   margin: 0; }

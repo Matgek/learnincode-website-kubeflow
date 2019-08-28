@@ -1,5 +1,5 @@
 +++
-title = "Getting Started"
-description = "How to get started using Kubeflow."
+title = "所有课程"
+description = "浏览所有课程"
 weight = 20
 +++
