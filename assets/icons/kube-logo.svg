@@ -1,0 +1,78 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <title>logo</title>
+ <defs>
+  <clipPath id="c_1">
+   <path d="m0,0l1286,0l0,909l-1286,0l0,-909z" id="svg_1"/>
+  </clipPath>
+  <style type="text/css">
+   <![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1{
+font-size: 46.88px;
+font-family: FiraSans-Medium_8;
+fill: #FFFFFF;
+}
+.s2{
+font-size: 46.88px;
+font-family: FiraSans-Bold_9;
+fill: #FFFFFF;
+}
+.s3{
+font-size: 46.88px;
+font-family: FiraSans-Medium_8;
+fill: #13273F;
+}
+.s4{
+font-size: 46.88px;
+font-family: FiraSans-Bold_9;
+fill: #6533E2;
+}
+
+.g0{
+fill: #6533E2;
+}
+.g1{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 15.409;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2{
+fill: #FFFFFF;
+}
+.g3{
+fill: none;
+stroke: #6533E2;
+stroke-width: 15.409;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]>
+  </style>
+ </defs>
+ <!-- Any embedded fonts defined here -->
+ <style type="text/css">
+  <![CDATA[
+
+@font-face {
+	font-family: FiraSans-Bold_9;
+	src: url("fonts/FiraSans-Bold_9.woff") format("woff");
+}
+
+@font-face {
+	font-family: FiraSans-Medium_8;
+	src: url("fonts/FiraSans-Medium_8.woff") format("woff");
+}
+
+]]>
+ </style>
+ <g>
+  <title>Layer 1</title>
+  <path d="m137.16114,16.0841l43.5,25.1l-43.5,25.1m-75.4,0l-43.5,-25.1l43.5,-25.1m101.5,35.8l0.2,40.2l-63.6,38.6l-64.2,-39.5l-0.3,-40.2m74.8,-46.4l-21.4,71.5" class="g3" id="svg_9" fill="black"/>
+  <text font-weight="bold" fill="#000000" stroke-width="20" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="765.64307" y="436.24449" id="svg_12" font-size="null" font-family="Cursive" text-anchor="middle" xml:space="preserve" transform="matrix(3.677028430240504,0,0,3.759268334388515,-2715.824878843729,-1453.2342908806763) ">编程中学</text>
+ </g>
+</svg>
