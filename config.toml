@@ -81,9 +81,9 @@ id = "UA-135379910-1"
 
 [languages]
 [languages.en]
-title = "Kubeflow"
-description = "Kubeflow makes deployment of ML Workflows on Kubernetes straightforward and automated"
-languageName ="English"
+title = "编程中学"
+description = "基于Jupyter编程环境的编程学习平台，无需安装软件、打开网站就能学，适合12岁以上编程爱好者"
+languageName ="中文"
 weight = 1
 # Example of another language: Norwegian
 #[languages.no]
