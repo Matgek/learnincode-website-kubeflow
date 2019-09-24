@@ -1,20 +1,12 @@
 +++
-title = "Kubeflow"
-description = "Quickly get running with your ML Workflow"
+title = "编程中学是什么？"
 weight = 1
-aliases = ["/docs/", "/docs/about/", "/docs/kubeflow/"]
+aliases = ["/docs/", "/docs/about/", "/docs/kubeflow/", "/docs/site-intro"]
 +++
 
-The Kubeflow project is dedicated to making deployments of machine learning (ML) 
-workflows on Kubernetes simple, portable and scalable. Our goal is not to 
-recreate other services, but to provide a straightforward way to deploy 
-best-of-breed open-source systems for ML to diverse infrastructures. Anywhere 
-you are running Kubernetes, you should be able to run Kubeflow.
+编程中学是一个面向12岁以上所有编程初学者的在线编程学习平台。编程中学的课程简单易懂，无需你有任何编程基础便可以上手学习。它基于Jupyter Notebook交互式编程环境，让你能够在边学教程的同时直接在网页上编写运行代码。
 
-## Getting started with Kubeflow
-
-Follow the [getting-started guide](/docs/started/getting-started) to set up your
-environment.
+## [点击立即体验课程](https://mybinder.org/v2/gh/selfteaching/the-craft-of-selfteaching/master)
 
 Then read the [documentation](/docs/) to learn about the features of Kubeflow, 
 including the following guides to Kubeflow components:
