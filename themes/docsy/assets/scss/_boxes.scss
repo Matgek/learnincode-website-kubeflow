@@ -77,26 +77,6 @@
 
 @include td-box-height-modifiers(".td-box");
 
-// Styling for section boxes
-.td-box {
-  .row {
-       padding-left: 5rem;
-       padding-right: 5rem;
-       flex-direction: column;
-
-       > table {
-        @extend .table-striped;
-
-        @extend .table-responsive;
-
-        @extend .table;
-       }
-   }
-
-  .row.features {
-   flex-direction: row;
-  }
-}
 
 // Styling for community page link boxes
 
