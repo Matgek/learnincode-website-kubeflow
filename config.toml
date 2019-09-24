@@ -39,19 +39,19 @@ pygmentsStyle = "tango"
     weight = -103
     url = "/docs/about/kubeflow/"
 [[menu.main]]
-    name = "Jupyter编程环境"
+    name = "开始了解"
     weight = -101
     url = "/docs/"
 [[menu.main]]
-    name = "所有课程"
+    name = "选择课程"
     weight = -100
     url = "https://medium.com/kubeflow"
 [[menu.main]]
-    name = "我的课程"
-    weight = -99
+    name = "申请正式账号"
+    weight = -97
     url = "https://github.com/kubeflow/"
 [[menu.main]]
-    name = "使用指导"
+    name = "Jupyter编程环境"
     weight = -98
     url = "https://github.com/kubeflow/"
 
@@ -194,3 +194,14 @@ no = 'Sorry to hear that. Please <a href="https://github.com/kubeflow/website/is
 #	url = "http://example.com"
 #	icon = "fab fa-envelope"
 #       desc = "A description"
+
+[deployment]
+# By default, files are uploaded in an arbitrary order.
+# Files that match the regular expressions in the "Order" list
+# will be uploaded first, in the listed order.
+order = [".jpg$", ".gif$"]
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "azure-deploy"
+URL = "azblob://$web"
