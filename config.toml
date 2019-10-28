@@ -45,11 +45,11 @@ pygmentsStyle = "tango"
     url = "/docs/courses/"
 [[menu.main]]
     name = "申请正式账号"
-    weight = -97
+    weight = -98
     url = "/docs/apply-account/"
 [[menu.main]]
     name = "Jupyter编程环境"
-    weight = -98
+    weight = -97
     url = "/docs/jupyter/"
 
 
