@@ -101,7 +101,7 @@ github = "kubeflow" # add your github profile name
 twitter = "kubeflow" # add your twitter profile
 #email = "myemail@myaddress.xxx"
 
-copyright = "编程中学"
+copyright = "编程中学 沪ICP备19020562号-2"
 privacy_policy = "https://policies.google.com/privacy"
 
 # Docsy: Google Custom Search Engine ID. Remove or comment out to disable search.
